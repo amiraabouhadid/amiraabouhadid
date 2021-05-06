@@ -2,8 +2,8 @@
 <img src='https://media.giphy.com/media/m7KgyEkyFGal8ctv2d/giphy.gif' width='50%' height= '75%'>
 </p>
 <body align="center">
- <div><p> Reach me at </p> <a href="">amiraabouhadid@gmail.com </a> </div>
- <div> <p>:art: Hobbies: I paint surrealistic and hyperrealistic paintings  :framed_picture: </p> <a href="https://www.instagram.com/amiraabouhadid/">@amiraabouhadid </a> </div>
+ <div><p> Reach me at <a href="">amiraabouhadid@gmail.com </a> </p> </div>
+ <div> <p>:art: Hobbies: I paint surrealistic and hyperrealistic paintings  :framed_picture: <a href="https://www.instagram.com/amiraabouhadid/">@amiraabouhadid </a> </p> </div>
 
 <h2 align= "center">🛠 Tech Stack  </h2>
 <p align="center">
