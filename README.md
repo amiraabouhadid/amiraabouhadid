@@ -2,11 +2,13 @@
 <img src='https://media.giphy.com/media/m7KgyEkyFGal8ctv2d/giphy.gif' width='50%' height= '75%'>
 </p>
 
+<p align='center'>
+
 - 📫 How to reach me **amiraabouhadid@gmail.com**
 
-- 🌱 Hobbies:  **I am paint surrealistic and hyperrealistic paintings :art: :framed_picture:**
+- :art: Hobbies:  **I paint surrealistic and hyperrealistic paintings  :framed_picture:**
 
-- ⚡ Fun Fact:  **I was 40 days old when I first rode an airplane :airplane: :earth_africa:**
+</p>
 
  ### 🛠 Tech Stack  
 <p align="center">
