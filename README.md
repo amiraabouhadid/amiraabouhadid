@@ -3,7 +3,7 @@
 </p>
 
  <p align="center"> Reach me at <a href="">amiraabouhadid@gmail.com </a> </p> 
- <p align="center">:art: Hobbies: I paint surrealistic and hyperrealistic paintings  :framed_picture: <a href="https://www.instagram.com/amiraabouhadid/">@amiraabouhadid </a> </p> 
+ <p align="center">:art: Hobbies: I paint surrealistic, realistic and abstract paintings :framed_picture: <a href="https://www.instagram.com/amiraabouhadid/">@amiraabouhadid </a> </p> 
 
 <h2 align= "center">🛠 Tech Stack  </h2>
 <p align="center">
