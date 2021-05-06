@@ -1,7 +1,7 @@
 <p align="center">
 <img src='https://media.giphy.com/media/m7KgyEkyFGal8ctv2d/giphy.gif' width='50%' height= '75%'>
 </p>
-<body align="center">
+
  <div><p> Reach me at <a href="">amiraabouhadid@gmail.com </a> </p> </div>
  <div> <p>:art: Hobbies: I paint surrealistic and hyperrealistic paintings  :framed_picture: <a href="https://www.instagram.com/amiraabouhadid/">@amiraabouhadid </a> </p> </div>
 
@@ -17,7 +17,6 @@
 <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width:100%;" width="40" height="40"> </a>
-
 </p>
 
   <p align="center">
@@ -28,4 +27,3 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amiraabouhadid&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="amiraabouhadid" /> </p>
-</body>
