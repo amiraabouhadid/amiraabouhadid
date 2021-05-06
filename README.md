@@ -10,7 +10,7 @@
 - ⚡ Fun Fact:  **I was 40 days old when I first rode an airplane :airplane: :earth_africa:**
 
 <p align="center">
-<img src='https://media.giphy.com/media/53uSGmtFl85rxVQXsD/giphy.gif' width='50%'>
+<img src='https://media.giphy.com/media/9W13EeU9dL7JqIzg8a/giphy.gif' width='50%' height= '75%'>
 </p>
 
  ### 🛠 Tech Stack  
