@@ -2,9 +2,11 @@
 <img src='https://media.giphy.com/media/m7KgyEkyFGal8ctv2d/giphy.gif' width='50%' height= '75%'>
 </p>
 
-<p align='center'>
+<p align="center">
 
-📫 How to reach me **amiraabouhadid@gmail.com**
+📫 Reach me **amiraabouhadid@gmail.com**
+</p>
+<p align="center">
 
  :art: Hobbies:  **I paint surrealistic and hyperrealistic paintings  :framed_picture:**
 
