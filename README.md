@@ -1,7 +1,6 @@
-<h1 align="center">Hello 👋 I'm Amira Abouhadid</h1>
-<h3 align="center">Full Stack Developer / Chemical Engineer :woman: </h3>
-
-
+<p align="center">
+<img src='https://media.giphy.com/media/m7KgyEkyFGal8ctv2d/giphy.gif' width='50%' height= '75%'>
+</p>
 
 - 📫 How to reach me **amiraabouhadid@gmail.com**
 
@@ -9,12 +8,8 @@
 
 - ⚡ Fun Fact:  **I was 40 days old when I first rode an airplane :airplane: :earth_africa:**
 
-<p align="center">
-<img src='https://media.giphy.com/media/m7KgyEkyFGal8ctv2d/giphy.gif' width='50%' height= '75%'>
-</p>
-
  ### 🛠 Tech Stack  
-<p align="left">
+<p align="center">
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width:40%;" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;" width="40" height="40"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width:100%;" width="40" height="40"> </a>
@@ -28,7 +23,7 @@
 </p>
 
   <p align="center">
-   <a href="https://github.com/zilton7">
+   <a href="https://github.com/amiraabouhadid">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amiraabouhadid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraabouhadid&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="amiraabouhadid" />
   </a>
