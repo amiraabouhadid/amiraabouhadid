@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 I'm Amira Abouhadid</h1>
-<h3 align="center">Full Stack Developer/ Chemical Engineer :woman: </h3>
+<h3 align="center">Full Stack Developer / Chemical Engineer :woman: </h3>
 
 
 
@@ -10,7 +10,7 @@
 - ⚡ Fun Fact:  **I was 40 days old when I first rode an airplane :airplane: :earth_africa:**
 
 <p align="center">
-<img src="amiraabouhadid-banner-gif.gif" width="50%">
+<iframe src="https://giphy.com/embed/9W13EeU9dL7JqIzg8a" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9W13EeU9dL7JqIzg8a">via GIPHY</a></p>
 </p>
 
  ### 🛠 Tech Stack  
@@ -24,7 +24,7 @@
 <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="max-width:100%;" width="40" height="40"> </a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width:100%;" width="40" height="40"> </a>
-<a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" style="max-width:100%;" width="40" height="40"> </a>
+
 </p>
 
   <p align="center">
