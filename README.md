@@ -4,9 +4,9 @@
 
 <p align='center'>
 
-- 📫 How to reach me **amiraabouhadid@gmail.com**
+📫 How to reach me **amiraabouhadid@gmail.com**
 
-- :art: Hobbies:  **I paint surrealistic and hyperrealistic paintings  :framed_picture:**
+ :art: Hobbies:  **I paint surrealistic and hyperrealistic paintings  :framed_picture:**
 
 </p>
 
