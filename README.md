@@ -1,20 +1,13 @@
 <p align="center">
 <img src='https://media.giphy.com/media/m7KgyEkyFGal8ctv2d/giphy.gif' width='50%' height= '75%'>
 </p>
+<body align="center">
+ <p> Reach me at amiraabouhadid@gmail.com </p>
+<p>:art: Hobbies: I paint surrealistic and hyperrealistic paintings  :framed_picture: </p> <a href="https://www.instagram.com/amiraabouhadid/">@amiraabouhadid </a>
 
+<h2 align= "center">🛠 Tech Stack  </h2>
 <p align="center">
-
-📫 Reach me **amiraabouhadid@gmail.com**
-</p>
-<p align="center">
-
- :art: Hobbies:  **I paint surrealistic and hyperrealistic paintings  :framed_picture:**
-
-</p>
-
-
-<p align="center">
-  ### 🛠 Tech Stack  
+  
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width:40%;" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;" width="40" height="40"></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width:100%;" width="40" height="40"> </a>
