@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://media.giphy.com/media/as02fGaP0nHTZhFuIr/giphy.gif' width='100%' height= '50%'>
+<img src='https://media.giphy.com/media/sNGnAmnRGSinrAzfhb/giphy.gif' width='100%' height= '50%'>
 </p>
 
  <p align="center"> Reach me at <a href="">amiraabouhadid@gmail.com </a> </p> 
