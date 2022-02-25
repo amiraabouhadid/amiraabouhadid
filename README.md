@@ -17,7 +17,7 @@
 <a href="https://www.linux.org/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width:100%;"  height="40"> </a>
  <a href="https://www.python.org/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width:100%;"  height="40"> </a>
    <a href="https://www.tensorflow.org/" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" style="max-width:100%;"  height="40"> </a>
-   <a href="https://www.djangoproject.com/" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg" alt="django" style="max-width:100%;"  height="40"> </a>
+   <a href="https://www.djangoproject.com/" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" style="max-width:100%;"  height="40"> </a>
  <a href="https://jupyter.org/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" style="max-width:100%;"  height="40"> </a>
  <a href="https://www.adobe.com/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" style="max-width:100%;" height="40"> </a>
 </p>
