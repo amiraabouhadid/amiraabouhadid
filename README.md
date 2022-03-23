@@ -29,11 +29,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraabouhadid&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="amiraabouhadid" />
   </a>
 </p>
-<p align="center"> 
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=amiraabouhadid" alt="amiraabouhadid" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://ensy727k6n2pc6y.m.pipedream.net/&style=plastic" alt="amiraabouhadid" target="_blank"/> 
-	</a>
-</p>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amiraabouhadid&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="amiraabouhadid" /> </p>
