@@ -1,33 +1,117 @@
 <p align="center">
-<img src='https://media.giphy.com/media/M71Xv47xZy0GHZElMI/giphy.gif' width='90%' height= '50%'>
+ ![amira](https://github.com/user-attachments/assets/c9de440d-102b-4efe-9720-f1bd76b8d748)
+
+</p>
+
+<p align="center">Reach me at <a href="mailto:amiraabouhadid@gmail.com">amiraabouhadid@gmail.com</a></p>
+
+<h2 align="center">🛠 Tech Stack</h2>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+ <!-- Languages -->  
+  <a href="https://www.typescriptlang.org" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"  height="40">  
+  </a>  
+  <a href="https://www.python.org/" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"  height="40">  
+  </a>  
+  <a href="https://www.java.com/" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"  height="40">  
+  </a>  
+  <a href="https://isocpp.org" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"  height="40">  
+  </a>  
+  <a href="https://isocpp.org" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"  height="40">  
+  </a>  
+  <a href="https://golang.org" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang"  height="40">  
+  </a>  
+ <a href="https://www.rust-lang.org" target="_blank" rel="nofollow">
+  <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="Rust"  height="40">
+</a>
+  <a href="https://ruby-lang.org" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby"  height="40">  
+  </a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell"  height="40">  
+  </a>  
+  <a href="https://graphql.org" target="_blank" rel="nofollow">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL"  height="40">  
+  </a>  
+
+
+  <a href="https://www.postgresql.org" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"  height="40">
+  </a>
+
+<!-- Frameworks & Platforms -->
+  <a href="https://vuejs.org" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js"  height="40">
+  </a>
+  <a href="https://reactjs.org" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"  height="40">
+  </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron"  height="40">
+  </a>
+  <a href="https://rubyonrails.org" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails"  height="40">
+  </a>
+  <a href="https://polkadot.js.org/" target="_blank" rel="nofollow">
+    <img src="https://avatars.githubusercontent.com/u/47703121?s=200&v=4" alt="Polkadot.js"  height="40">
+  </a>
+  <a href="https://ethereum.org/developers/#solidity" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity"  height="40">
+  </a>
+    <a href="https://www.linux.org/" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="40">
+  </a>
  
-</p>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"  height="40">
+  </a>
 
- <p align="center"> Reach me at <a href="">amiraabouhadid@gmail.com </a> </p> 
+  <a href="https://jupyter.org/" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"  height="40">
+  </a>
 
-<h2 align= "center">🛠 Tech Stack  </h2>
+<!-- Arduino -->
+<a href="https://www.arduino.cc" target="_blank" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino"  height="40">
+</a>
+
+<!-- Raspberry Pi -->
+<a href="https://www.raspberrypi.org" target="_blank" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"  height="40">
+</a>
+<!-- Tools & Methods -->
+  <a href="https://www.docker.com/" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"  height="40">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes"  height="40">
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"  height="40">
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="nofollow">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub CI/CD"  height="40">
+  </a>
+  <a href="https://selenium.dev/" target="_blank" rel="nofollow">
+    <img src="https://github.com/SeleniumHQ/selenium/raw/trunk/common/images/selenium_logo_mark_green.svg" alt="Selenium"  height="40">
+  </a>
+
+  
+
+</div>
+
 <p align="center">
-<a href="https://getbootstrap.com" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="max-width:40%;" height="40"></a>
-<a href="https://www.w3schools.com/css/" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="max-width:100%;"  height="40"></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="max-width:100%;"  height="40"> </a>
- <a href="https://rubyonrails.org" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" style="max-width:100%;" height="40"> </a>
-<a href="https://www.ruby-lang.org/en/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" style="max-width:100%;"  height="40"> </a>
- <a href="https://www.postgresql.org" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="max-width:100%;"  height="40"> </a>
-<a href="https://heroku.com" rel="nofollow" target="blank"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width:100%;"  height="40"> </a>
-<a href="https://www.linux.org/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="max-width:100%;"  height="40"> </a>
- <a href="https://www.python.org/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width:100%;"  height="40"> </a>
-   <a href="https://www.tensorflow.org/" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" style="max-width:100%;"  height="40"> </a>
-   <a href="https://www.djangoproject.com/" target="blank" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" style="max-width:100%;"  height="40"> </a>
- <a href="https://jupyter.org/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" style="max-width:100%;"  height="40"> </a>
- <a href="https://www.adobe.com/" rel="nofollow" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="illustrator" style="max-width:100%;" height="40"> </a>
-</p>
-
-  <p align="center">
-   <a href="https://github.com/amiraabouhadid" target="blank">
+  <a href="https://github.com/amiraabouhadid" target="_blank">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amiraabouhadid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraabouhadid&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="amiraabouhadid" />
+  
   </a>
 </p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=amiraabouhadid&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="amiraabouhadid" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amiraabouhadid&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="Profile views" />
+</p>
