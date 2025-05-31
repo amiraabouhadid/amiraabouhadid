@@ -1,8 +1,7 @@
 <p align="center">
 <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BlM3kwMjBhbmZuYzk2ampucGhmeGpldjRmYmlnMTdhdm9uM3hnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFY3xLtfOYsfQIyw2q/giphy.gif' width='90%' height= '50%'>
- 
-
 </p>
+
 
 <p align="center">Reach me at <a href="mailto:amiraabouhadid@gmail.com">amiraabouhadid@gmail.com</a></p>
 
@@ -44,6 +43,13 @@
   <a href="https://www.postgresql.org" target="_blank" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"  height="40">
   </a>
+ 
+  <!----->
+
+ 
+
+
+
 
 <!-- Frameworks & Platforms -->
   <a href="https://vuejs.org" target="_blank" rel="nofollow">
