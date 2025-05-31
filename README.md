@@ -1,5 +1,5 @@
 <p align="center">
- ![amira](https://github.com/user-attachments/assets/c9de440d-102b-4efe-9720-f1bd76b8d748)
+<iframe src="https://giphy.com/embed/mFY3xLtfOYsfQIyw2q" width="480" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mFY3xLtfOYsfQIyw2q">via GIPHY</a></p>
 
 </p>
 
