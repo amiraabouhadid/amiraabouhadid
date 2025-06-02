@@ -6,7 +6,7 @@
 <p align="center">Reach me at <a href="mailto:amiraabouhadid@gmail.com">amiraabouhadid@gmail.com</a></p>
 
 <h2 align="center">🛠 Tech Stack</h2>
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; height: 100vh;">
  <!-- Languages -->  
   <a href="https://www.typescriptlang.org" target="_blank" rel="nofollow">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"  height="40">  
