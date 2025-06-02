@@ -68,7 +68,7 @@
     <img src="https://avatars.githubusercontent.com/u/47703121?s=200&v=4" alt="Polkadot.js"  height="40">
   </a>
   <a href="https://ethereum.org/developers/#solidity" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity"  height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/solidity/solidity-plain.svg" alt="Solidity"  height="40">
   </a>
     <a href="https://www.linux.org/" target="_blank" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"  height="40">
