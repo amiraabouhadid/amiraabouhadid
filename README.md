@@ -1,5 +1,5 @@
 <p align="center">
-<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BlM3kwMjBhbmZuYzk2ampucGhmeGpldjRmYmlnMTdhdm9uM3hnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFY3xLtfOYsfQIyw2q/giphy.gif' width='90%' height= '50%'>
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BlM3kwMjBhbmZuYzk2ampucGhmeGpldjRmYmlnMTdhdm9uM3hnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFY3xLtfOYsfQIyw2q/giphy.gif' width='100%' height= '60%'>
 </p>
 
 
@@ -7,6 +7,7 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;" height="100">
+<p>
  <!-- Languages -->  
   <a href="https://www.typescriptlang.org" target="_blank" rel="nofollow">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"  height="40">  
@@ -109,7 +110,7 @@
   </a>
 
   
-
+</p>
 </div>
 
 <p align="center">
