@@ -6,7 +6,7 @@
 <p align="center">Reach me at <a href="mailto:amiraabouhadid@gmail.com">amiraabouhadid@gmail.com</a></p>
 
 <h2 align="center">🛠 Tech Stack</h2>
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;" height="100">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;" height="80">
 <p>
  <!-- Languages -->  
   <a href="https://www.typescriptlang.org" target="_blank" rel="nofollow">  
